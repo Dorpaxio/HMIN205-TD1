@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">TD1</string>
     <string name="mainbutton">Bouton 1</string>
+    <string name="mainbutton2">Bouton 2</string>
+    <string name="exo4">Exercice 4</string>
+    <string name="msg_btn1">Message Bouton 1</string>
+    <string name="msg_btn2">Message Bouton 2</string>
 </resources>

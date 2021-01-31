@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TD1</string>
+    <string name="mainbutton">Button 1</string>
+    <string name="mainbutton2">Button 2</string>
+    <string name="exo4">Exercice 4</string>
+    <string name="msg_btn1">Button 1 Message</string>
+    <string name="msg_btn2">Button 2 Message</string>
+</resources>
